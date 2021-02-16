@@ -33,6 +33,6 @@ Parameters:
 - __-f__: filename (the same as above)
 - __-m__: binarization method (default is the one used in the paper, others include "add_edge" keeping the top-m edges). 
 
-3. Usage example:
+3. Usage example:  
 	python invert_embeddings.py -f PPI.mat -r 128  
 	python network_stats.py -f PPI.mat
