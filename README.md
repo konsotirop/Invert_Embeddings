@@ -1,5 +1,5 @@
 # Code for the paper:
-# "DeepWalkings Backwards: From Node Embeddings Back to Graphs"
+# "DeepWalkings Backwards: From Embeddings Back to Graphs"
 
 
 1) We include a DEMO file in the form of Jupyter Notebook (Demo.ipynb)
@@ -12,7 +12,7 @@ embedding as G.
 Parameters:
  -f: filename (networks are assumed to be in .mat format. Each .mat file contains two MATLAB sparse
 		arrays: 
-		 i) 'network' being the NXN sparse djacency matrix, 
+		 i) 'network' being the NXN sparse adjacency matrix, 
 		 ii) 'group' being an NxC sparse matrix (C the number of labels), where each row
 			i represents a node, and each column j is either 1 or 0, if node i has
 			label j.
