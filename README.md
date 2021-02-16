@@ -8,7 +8,7 @@ that goes through the main parts of our paper.
 2. A detailed description of the code and files used follows:  
 
 File __"invert_embeddings.py"__ implements the optimization based procedure, that given as input
-a low-dimensional embeddings of a network G, tries to learn a new network G' that has the same
+a low-dimensional embedding of a network G, tries to learn a new network G' that has the same
 embedding as G.  
 
 Parameters:  
