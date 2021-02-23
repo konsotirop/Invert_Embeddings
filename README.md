@@ -1,6 +1,6 @@
 # Code for the paper:
 # "DeepWalkings Backwards: From Embeddings Back to Graphs"
-
+https://arxiv.org/pdf/2102.08532.pdf
 
 1. We include a DEMO file in the form of Jupyter Notebook (Demo.ipynb)
 that goes through the main parts of our paper.  
